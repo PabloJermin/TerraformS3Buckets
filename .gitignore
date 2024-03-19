@@ -1,0 +1,5 @@
+#ignore files in .terraform
+.terraform/
+TerraformS3Container\.terraform
+C:\Users\Don Pee\Documents\Azubi\aws\terraformTuts\Terr\TerraformS3Container\.terraform\providers
+.terraform
